@@ -5,7 +5,7 @@ Lenguaje: Java
 
 Asignatura: Lógica de Programación
 
-Integrante: 1 estudiante
+Integrante: Luis Mario Tapias Yepez
 
 Descripción
 
